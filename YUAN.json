@@ -12,6 +12,7 @@
 	{"name":"AnimeHome", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/AnimeHome.png"},
 	{"name":"Apop", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Apop.png"},
 	{"name":"Atvii", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Atvii.png"},
+	{"name":"AuroraMedia", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/AuroraMedia.png"},
 	{"name":"AWA", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/AWA.png"},
 
 	{"name":"Baisi", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Baisi.png"},
@@ -33,6 +34,7 @@
 	{"name":"CcEmby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/CcEmby.png"},
 	{"name":"CharonTV", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/CharonTV.png"},
 	{"name":"CherryTV", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/CherryTV.png"},
+	{"name":"CoCo", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/CoCo.png"},
 	{"name":"Csn", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Csn.png"},
 	{"name":"Csn1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Csn1.png"},
 	{"name":"Csn2", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Csn2.png"},
@@ -40,12 +42,14 @@
 	{"name":"CurlyMouse1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/CurlyMouse1.png"},
 
 	{"name":"Dav", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Dav.png"},
+	{"name":"DES", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/DES.png"},
 	{"name":"Dolphin", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Dolphin.png"},
 
 	{"name":"Efu", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Efu.png"},
 	{"name":"EmbyHub2", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/EmbyHub2.png"},
 	{"name":"EmbyX", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/EmbyX.png"},
 
+	{"name":"FeiyueChat", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/FeiyueChat.png"},
 	{"name":"FeiyueCH", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Feiyuecaihong.png"},
 	{"name":"FeiyueMJJ", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Feiyueyinhe.png"},
 	{"name":"FeiyueDPX", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/FeiyueDPX.png"},
@@ -61,6 +65,7 @@
 	{"name":"Heisi", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Heisi.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/HKA.png"},
 	{"name":"HongChen", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/HongChen.png"},
+	{"name":"Houyinxemby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Houyinxemby.png"},
 	{"name":"Hxd", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Hxd.png"},
 	{"name":"Hxd2", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Hxd2.png"},
 
@@ -75,6 +80,7 @@
 	{"name":"Kaixin1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Kaixin1.png"},
 	{"name":"KshtEmby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/KshtEmby.png"},
 
+	{"name":"Laoda", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Laoda.png"},
 	{"name":"Lend", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Lend.png"},
 	{"name":"LEVILDE", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/LEVILDE.png"},
 	{"name":"LiLy", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/lily.png"},
@@ -90,14 +96,17 @@
 	{"name":"MisakaF1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/MisakaF1.png"},
 	{"name":"Misty", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Misty.png"},
 	{"name":"Misty+", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/MistyPlus.png"},
+	{"name":"MICU", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/MICU.png"},
 	{"name":"MoGu", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/MoGu.png"},
 	{"name":"Moonlight", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Moonlight.png"},
+	{"name":"Moxianbao", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Moxianbao.png"},
 
 	{"name":"NakoNako", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/NakoNako.png"},
 	{"name":"Nanflix", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nanflix.png"},
 	{"name":"Nebula", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nebula.png"},
 	{"name":"Nebula1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nebula1.png"},
 	{"name":"Nirvana", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nirvana.png"},
+	{"name":"Nomaba", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nomaba.png"},
 	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Ntrrr.png"},
 	{"name":"Nya", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nya.png"},
 
@@ -113,7 +122,10 @@
 	{"name":"Polo", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Polo.png"},
 	{"name":"Polo1", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Polo1.png"},
 	{"name":"PornEmby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/PornEmby.png"},
+	{"name":"PrejuDice", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/PrejuDice.png"},
 	{"name":"Prpr", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Prpr.png"},
+
+	{"name":"Raisemby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Raisemby.png"},
 
 	{"name":"SDlite", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/SDlite.png"},
 	{"name":"Sela", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Sela.png"},
@@ -135,6 +147,8 @@
 	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Terminus.png"},
 	{"name":"Texon", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Texon.png"},
 	{"name":"TreeDiagram", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/TreeDiagram.png"},
+
+	{"name":"WorldLine", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/WorldLine.png"},
 
 	{"name":"Xiaoyi", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Xiaoyi.png"},
 	{"name":"Xigua", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Xigua.png"},
